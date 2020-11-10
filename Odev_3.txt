@@ -1,0 +1,4 @@
+Kullanabiliriz fakat constructor private olduğu zaman class'ı extend edemeyiz,
+bir nevi final class'ın başka bir şekilde yazılmış hali.
+Ayrıca class'ı dışarıda initialize etmek istemediğimizde de kullanılabilir.
+Son olarak singleton gibi birkaç design patterninde de kullanışlı.
