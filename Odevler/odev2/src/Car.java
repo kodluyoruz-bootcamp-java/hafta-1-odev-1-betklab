@@ -1,4 +1,4 @@
-package src.com.company.odev2;
+package Odevler.odev2.src;
 
 public final class  Car {
     private int yearModel;

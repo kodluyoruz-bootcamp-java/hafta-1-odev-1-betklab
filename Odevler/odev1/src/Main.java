@@ -1,4 +1,4 @@
-package com.company;
+package Odevler.odev1.src;
 
 public class Main {
 
